@@ -1,0 +1,26 @@
+{
+  "name": "node_jwt",
+  "version": "1.0.0",
+  "description": "jwt authentication implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iramkrish/node_JWT.git"
+  },
+  "author": "RamKrishnan-iramkrish95@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iramkrish/node_JWT/issues"
+  },
+  "homepage": "https://github.com/iramkrish/node_JWT#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
